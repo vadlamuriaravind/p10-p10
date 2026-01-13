@@ -1,0 +1,501 @@
+Hotel_Name,Location,Price_per_night,Rating,Number_of_Reviews,Star_Rating,Amenities,Distance_from_CityCenter_km,Room_Type,Availability
+Ocean View Resort,Los Angeles,162,4.1,384,4,"WiFi, Gym",3.1,Deluxe,Limited
+Royal Stay,New York,121,4.9,415,4,"WiFi, Gym",3.64,Deluxe,Limited
+Skyline Hotel,San Francisco,180,4.6,127,4,WiFi,0.53,Deluxe,Limited
+Budget Stay,Chicago,85,5.0,286,5,"WiFi, Pool, Breakfast",0.95,Deluxe,Booked
+Windy City Inn,Los Angeles,259,3.7,223,3,"WiFi, Pool, Breakfast",4.41,Deluxe,Booked
+Miami Central Hotel,New York,361,4.5,229,5,"WiFi, Breakfast",3.57,Suite,Available
+Skyline Hotel,Chicago,399,3.8,402,3,"WiFi, Pool, Spa, Breakfast",1.01,Suite,Available
+Sunset Boulevard Hotel,San Francisco,305,4.0,35,3,WiFi,4.29,Suite,Available
+Ocean View Resort,Chicago,394,4.3,18,4,WiFi,1.59,Suite,Available
+Green Garden Hotel,New York,308,4.7,280,5,WiFi,2.65,Standard,Limited
+Budget Inn,Chicago,368,5.0,19,4,"WiFi, Pool, Breakfast",1.15,Suite,Booked
+Ocean View Resort,Miami,229,4.5,481,5,"WiFi, Pool, Spa, Breakfast",3.7,Deluxe,Booked
+Windy City Inn,Chicago,356,3.8,387,3,"WiFi, Breakfast",3.5,Suite,Available
+Windy City Inn,Los Angeles,277,3.8,130,4,"WiFi, Gym",1.45,Standard,Available
+Miami Central Hotel,Los Angeles,149,4.5,134,4,"WiFi, Gym",4.39,Deluxe,Limited
+Sunset Boulevard Hotel,Miami,191,3.5,179,3,WiFi,2.31,Suite,Limited
+Royal Stay,New York,83,3.2,81,3,"WiFi, Pool, Spa, Breakfast",1.82,Suite,Available
+Miami Central Hotel,Los Angeles,397,3.7,161,3,"WiFi, Pool, Breakfast",1.19,Suite,Booked
+Miami Central Hotel,San Francisco,174,3.6,217,4,"WiFi, Pool, Spa, Breakfast",1.7,Deluxe,Booked
+Budget Inn,Los Angeles,231,3.6,58,5,"WiFi, Pool, Spa, Breakfast",0.6,Deluxe,Booked
+Comfort Suites,Los Angeles,390,3.5,163,4,"WiFi, Pool, Breakfast",3.12,Standard,Available
+Sunset Boulevard Hotel,New York,216,3.1,356,5,WiFi,4.29,Deluxe,Booked
+City Lights Hotel,Chicago,326,3.0,302,4,"WiFi, Pool, Spa, Breakfast",2.97,Deluxe,Limited
+Miami Central Hotel,Los Angeles,322,5.0,77,4,"WiFi, Gym",1.49,Suite,Limited
+Lakeside Resort,Miami,110,3.9,59,3,"WiFi, Pool, Breakfast",0.65,Deluxe,Available
+Bay View Inn,Chicago,119,3.8,161,5,"WiFi, Breakfast",1.47,Suite,Limited
+Comfort Suites,San Francisco,308,4.4,28,4,WiFi,2.37,Suite,Available
+City Lights Hotel,New York,115,3.4,109,4,"WiFi, Pool, Breakfast",3.92,Deluxe,Booked
+Lakeside Resort,San Francisco,302,4.9,69,3,"WiFi, Breakfast",1.35,Standard,Booked
+Sunset Boulevard Hotel,Chicago,85,4.6,176,3,"WiFi, Breakfast",3.74,Standard,Booked
+Grand Plaza,Chicago,299,3.2,211,5,"WiFi, Pool, Spa, Breakfast",4.4,Deluxe,Limited
+Lakeside Resort,Chicago,154,3.8,354,4,"WiFi, Pool, Spa, Breakfast",2.54,Standard,Available
+Green Garden Hotel,San Francisco,83,4.8,155,5,"WiFi, Pool, Spa, Breakfast",4.2,Suite,Booked
+Comfort Suites,Chicago,213,4.9,412,4,"WiFi, Pool, Breakfast",3.0,Suite,Available
+Skyline Hotel,San Francisco,197,3.9,173,5,"WiFi, Pool, Breakfast",3.37,Deluxe,Booked
+Lakeside Resort,Chicago,173,4.2,467,3,WiFi,2.87,Standard,Limited
+Palm Trees Hotel,Miami,141,3.3,490,4,"WiFi, Pool, Spa, Breakfast",2.58,Standard,Limited
+Grand Plaza,Chicago,273,5.0,448,5,"WiFi, Breakfast",1.56,Suite,Available
+Windy City Inn,San Francisco,282,3.5,251,3,"WiFi, Gym",1.86,Deluxe,Limited
+Windy City Inn,Los Angeles,105,4.9,78,3,WiFi,1.8,Standard,Limited
+Budget Stay,Chicago,252,4.3,184,5,"WiFi, Pool, Breakfast",3.03,Deluxe,Available
+Green Garden Hotel,Los Angeles,379,4.2,58,4,WiFi,1.04,Standard,Booked
+Lakeside Resort,Miami,212,4.0,492,4,WiFi,4.63,Suite,Limited
+Lakeside Resort,New York,197,3.5,117,3,WiFi,3.74,Suite,Available
+Budget Stay,Miami,354,3.4,235,4,WiFi,2.31,Deluxe,Limited
+Bay View Inn,Chicago,291,3.4,170,4,"WiFi, Gym",1.21,Suite,Limited
+Bay View Inn,Los Angeles,304,3.4,128,4,"WiFi, Pool, Spa, Breakfast",4.47,Standard,Limited
+Budget Stay,Los Angeles,99,4.6,158,3,"WiFi, Breakfast",4.21,Suite,Limited
+Bay View Inn,San Francisco,192,3.7,474,5,WiFi,3.75,Deluxe,Available
+Budget Inn,Los Angeles,219,3.1,159,4,WiFi,1.72,Deluxe,Available
+Lakeside Resort,San Francisco,126,4.9,441,3,WiFi,2.31,Deluxe,Available
+Ocean View Resort,New York,80,4.8,302,3,"WiFi, Pool, Spa, Breakfast",0.96,Standard,Limited
+Royal Stay,Chicago,169,4.9,152,5,"WiFi, Pool, Breakfast",1.35,Standard,Limited
+Palm Trees Hotel,San Francisco,221,5.0,428,4,"WiFi, Pool, Breakfast",4.02,Standard,Limited
+Budget Inn,New York,399,3.3,485,4,"WiFi, Gym",3.72,Standard,Available
+Sunset Boulevard Hotel,Los Angeles,117,3.8,464,5,"WiFi, Pool, Breakfast",3.17,Standard,Limited
+Budget Inn,Los Angeles,372,4.5,169,5,WiFi,4.53,Suite,Booked
+Ocean View Resort,New York,218,4.4,20,3,WiFi,3.12,Standard,Limited
+Sunset Boulevard Hotel,Los Angeles,338,3.3,147,3,WiFi,2.6,Standard,Booked
+Palm Trees Hotel,New York,240,4.6,466,5,"WiFi, Gym",2.03,Suite,Limited
+Ocean View Resort,San Francisco,257,3.4,87,4,WiFi,4.73,Standard,Available
+City Lights Hotel,San Francisco,89,3.4,86,3,"WiFi, Pool, Breakfast",0.87,Deluxe,Limited
+Royal Stay,New York,340,4.1,450,3,"WiFi, Pool, Spa, Breakfast",4.69,Standard,Booked
+Palm Trees Hotel,San Francisco,217,4.2,263,4,"WiFi, Pool, Spa, Breakfast",4.22,Standard,Booked
+Lakeside Resort,San Francisco,251,4.2,418,3,"WiFi, Breakfast",1.08,Deluxe,Limited
+Bay View Inn,San Francisco,92,3.2,267,4,"WiFi, Pool, Breakfast",3.04,Deluxe,Booked
+City Lights Hotel,Miami,247,4.8,329,4,WiFi,4.4,Deluxe,Booked
+Green Garden Hotel,Chicago,209,3.5,300,4,"WiFi, Pool, Spa, Breakfast",3.07,Deluxe,Available
+Palm Trees Hotel,Los Angeles,163,3.3,272,5,"WiFi, Pool, Breakfast",4.58,Standard,Limited
+Green Garden Hotel,Miami,398,4.8,94,5,"WiFi, Pool, Spa, Breakfast",4.74,Deluxe,Limited
+Sunset Boulevard Hotel,San Francisco,180,4.9,155,5,WiFi,2.4,Deluxe,Limited
+City Lights Hotel,New York,352,4.7,332,4,"WiFi, Pool, Spa, Breakfast",2.2,Suite,Booked
+Royal Stay,San Francisco,344,4.6,51,4,"WiFi, Breakfast",4.71,Deluxe,Limited
+Lakeside Resort,Chicago,117,4.3,383,5,"WiFi, Breakfast",3.54,Deluxe,Limited
+Budget Stay,San Francisco,173,4.1,134,3,"WiFi, Pool, Spa, Breakfast",1.02,Suite,Available
+Lakeside Resort,New York,174,3.2,176,4,"WiFi, Pool, Breakfast",0.69,Suite,Available
+Ocean View Resort,Chicago,384,3.8,434,3,"WiFi, Pool, Breakfast",3.04,Standard,Available
+Lakeside Resort,San Francisco,148,3.7,250,3,"WiFi, Pool, Breakfast",4.69,Suite,Booked
+Skyline Hotel,Chicago,397,3.5,468,4,"WiFi, Pool, Spa, Breakfast",4.3,Standard,Limited
+Miami Central Hotel,Los Angeles,315,4.4,496,4,"WiFi, Pool, Breakfast",3.54,Suite,Available
+Budget Stay,Los Angeles,216,4.0,289,3,WiFi,1.13,Suite,Available
+Budget Inn,San Francisco,155,3.2,197,3,"WiFi, Breakfast",1.64,Standard,Available
+Bay View Inn,Chicago,114,3.4,311,5,WiFi,4.44,Suite,Limited
+Grand Plaza,New York,80,4.4,28,5,"WiFi, Pool, Breakfast",1.32,Standard,Limited
+Royal Stay,San Francisco,375,3.2,77,4,WiFi,1.75,Suite,Limited
+City Lights Hotel,Los Angeles,399,4.7,227,5,"WiFi, Pool, Breakfast",1.08,Deluxe,Booked
+Miami Central Hotel,Los Angeles,139,4.0,111,5,"WiFi, Pool, Spa, Breakfast",3.54,Suite,Booked
+Royal Stay,San Francisco,399,4.0,51,5,WiFi,4.75,Standard,Available
+City Lights Hotel,Chicago,346,4.2,297,5,"WiFi, Pool, Spa, Breakfast",1.71,Suite,Limited
+Bay View Inn,Los Angeles,308,4.6,176,3,"WiFi, Pool, Spa, Breakfast",2.64,Standard,Available
+Comfort Suites,Chicago,349,3.7,118,4,"WiFi, Gym",3.35,Standard,Limited
+Comfort Suites,Los Angeles,395,4.4,45,5,"WiFi, Pool, Breakfast",5.0,Deluxe,Limited
+Green Garden Hotel,Los Angeles,365,4.1,241,3,"WiFi, Breakfast",0.97,Deluxe,Limited
+Royal Stay,Miami,370,3.5,238,3,"WiFi, Pool, Breakfast",2.74,Standard,Booked
+Comfort Suites,Los Angeles,292,4.8,362,3,"WiFi, Breakfast",2.23,Suite,Booked
+Skyline Hotel,New York,244,4.6,173,5,"WiFi, Pool, Breakfast",4.4,Standard,Limited
+Budget Stay,San Francisco,84,4.3,396,5,"WiFi, Pool, Spa, Breakfast",2.64,Standard,Available
+City Lights Hotel,San Francisco,157,4.7,82,4,WiFi,1.0,Suite,Limited
+Green Garden Hotel,Chicago,141,4.7,145,5,WiFi,3.35,Suite,Limited
+Lakeside Resort,Los Angeles,211,4.4,362,5,"WiFi, Gym",3.97,Suite,Available
+City Lights Hotel,New York,168,4.7,388,3,"WiFi, Breakfast",0.51,Suite,Limited
+Green Garden Hotel,Chicago,316,4.4,79,4,"WiFi, Breakfast",4.37,Standard,Available
+Bay View Inn,Miami,121,4.4,434,5,"WiFi, Breakfast",1.34,Standard,Booked
+Royal Stay,Chicago,168,4.2,496,5,"WiFi, Pool, Spa, Breakfast",2.98,Deluxe,Booked
+Bay View Inn,Chicago,375,4.5,205,3,"WiFi, Breakfast",2.37,Standard,Available
+Budget Stay,Los Angeles,374,3.3,278,3,WiFi,3.74,Suite,Booked
+Budget Stay,Miami,183,4.8,58,5,"WiFi, Pool, Spa, Breakfast",2.17,Deluxe,Booked
+Miami Central Hotel,Chicago,93,4.7,325,4,"WiFi, Pool, Breakfast",4.41,Suite,Available
+Bay View Inn,New York,367,3.1,139,4,"WiFi, Breakfast",3.79,Standard,Booked
+Ocean View Resort,New York,258,4.7,453,3,"WiFi, Breakfast",3.41,Deluxe,Limited
+Lakeside Resort,San Francisco,204,3.3,14,3,"WiFi, Pool, Breakfast",4.08,Suite,Limited
+Palm Trees Hotel,Miami,102,3.7,437,5,"WiFi, Breakfast",3.89,Deluxe,Available
+Bay View Inn,Miami,142,4.5,36,3,"WiFi, Pool, Breakfast",0.66,Deluxe,Booked
+Miami Central Hotel,San Francisco,222,3.3,169,5,"WiFi, Pool, Spa, Breakfast",2.28,Standard,Limited
+Sunset Boulevard Hotel,Chicago,232,4.6,158,4,WiFi,4.69,Suite,Limited
+Skyline Hotel,Miami,224,4.7,273,4,"WiFi, Pool, Breakfast",1.07,Deluxe,Booked
+City Lights Hotel,New York,304,4.0,239,5,"WiFi, Gym",3.82,Deluxe,Booked
+Budget Stay,New York,388,3.0,209,3,"WiFi, Pool, Breakfast",4.89,Suite,Limited
+Sunset Boulevard Hotel,Los Angeles,183,3.6,59,4,"WiFi, Breakfast",0.73,Deluxe,Limited
+Miami Central Hotel,Miami,183,4.2,76,3,"WiFi, Pool, Spa, Breakfast",3.57,Deluxe,Available
+Green Garden Hotel,Chicago,118,5.0,309,4,"WiFi, Pool, Spa, Breakfast",2.61,Deluxe,Available
+Palm Trees Hotel,San Francisco,277,4.3,390,5,"WiFi, Pool, Breakfast",3.11,Suite,Limited
+Lakeside Resort,San Francisco,213,3.5,67,5,WiFi,0.88,Suite,Available
+Lakeside Resort,Chicago,146,4.3,268,5,"WiFi, Gym",0.69,Suite,Limited
+Lakeside Resort,Los Angeles,258,4.1,351,4,"WiFi, Pool, Spa, Breakfast",3.5,Suite,Limited
+Skyline Hotel,San Francisco,121,4.6,335,3,"WiFi, Breakfast",4.2,Standard,Available
+Palm Trees Hotel,Miami,94,3.2,139,3,"WiFi, Breakfast",4.02,Deluxe,Available
+Skyline Hotel,Los Angeles,190,4.5,224,3,WiFi,2.95,Suite,Booked
+Budget Stay,Miami,236,4.1,181,4,"WiFi, Pool, Spa, Breakfast",0.95,Deluxe,Booked
+Skyline Hotel,New York,368,4.9,267,4,"WiFi, Pool, Breakfast",3.6,Deluxe,Booked
+Grand Plaza,Los Angeles,310,3.7,111,4,"WiFi, Breakfast",1.59,Standard,Limited
+Palm Trees Hotel,San Francisco,236,4.3,218,4,WiFi,4.6,Suite,Available
+Ocean View Resort,Los Angeles,117,4.9,300,4,"WiFi, Pool, Spa, Breakfast",4.27,Suite,Limited
+Palm Trees Hotel,Los Angeles,176,3.2,363,3,"WiFi, Pool, Spa, Breakfast",3.69,Deluxe,Available
+Miami Central Hotel,Los Angeles,368,4.9,480,4,"WiFi, Pool, Spa, Breakfast",4.77,Suite,Limited
+Grand Plaza,Los Angeles,333,4.4,295,4,"WiFi, Pool, Spa, Breakfast",0.64,Deluxe,Booked
+Lakeside Resort,Miami,275,3.1,125,3,"WiFi, Pool, Spa, Breakfast",3.81,Deluxe,Booked
+Miami Central Hotel,New York,165,3.6,273,4,"WiFi, Breakfast",1.99,Standard,Booked
+Miami Central Hotel,Chicago,89,4.4,159,3,WiFi,4.58,Standard,Limited
+Budget Stay,Los Angeles,84,3.1,309,3,"WiFi, Pool, Spa, Breakfast",1.7,Standard,Available
+Windy City Inn,San Francisco,202,4.2,451,5,"WiFi, Gym",3.76,Deluxe,Available
+Budget Inn,Los Angeles,197,3.7,45,5,"WiFi, Gym",4.45,Suite,Booked
+Grand Plaza,San Francisco,373,4.2,462,5,WiFi,0.69,Standard,Booked
+Miami Central Hotel,Miami,238,3.1,342,5,"WiFi, Pool, Breakfast",2.29,Suite,Booked
+Budget Inn,San Francisco,382,4.7,486,4,"WiFi, Pool, Breakfast",3.93,Standard,Booked
+Budget Inn,Chicago,307,4.9,296,5,"WiFi, Pool, Breakfast",2.55,Standard,Available
+Grand Plaza,New York,295,4.9,312,3,"WiFi, Gym",1.7,Deluxe,Limited
+Windy City Inn,San Francisco,263,4.5,320,4,"WiFi, Pool, Breakfast",1.49,Standard,Limited
+Sunset Boulevard Hotel,San Francisco,94,3.3,217,5,"WiFi, Breakfast",1.09,Standard,Limited
+Green Garden Hotel,New York,236,4.5,115,3,"WiFi, Pool, Spa, Breakfast",4.36,Deluxe,Limited
+Ocean View Resort,Chicago,215,3.0,455,4,"WiFi, Gym",3.09,Suite,Booked
+Green Garden Hotel,Los Angeles,340,3.0,167,4,WiFi,0.84,Standard,Booked
+Palm Trees Hotel,San Francisco,236,3.6,130,5,WiFi,2.22,Deluxe,Booked
+Lakeside Resort,New York,126,4.0,64,4,"WiFi, Pool, Spa, Breakfast",2.15,Standard,Limited
+Ocean View Resort,Miami,252,4.5,409,3,"WiFi, Gym",1.32,Deluxe,Booked
+Palm Trees Hotel,New York,209,4.4,21,4,"WiFi, Pool, Breakfast",2.46,Suite,Booked
+Miami Central Hotel,Miami,174,3.9,154,3,"WiFi, Pool, Breakfast",1.99,Suite,Available
+Lakeside Resort,Chicago,194,3.5,409,4,"WiFi, Breakfast",2.04,Deluxe,Available
+City Lights Hotel,Los Angeles,322,5.0,405,5,"WiFi, Breakfast",3.83,Deluxe,Booked
+Grand Plaza,New York,371,3.9,145,3,"WiFi, Pool, Breakfast",1.5,Deluxe,Available
+Ocean View Resort,San Francisco,361,3.9,477,4,WiFi,3.39,Suite,Available
+Ocean View Resort,Chicago,378,3.3,12,4,WiFi,3.07,Standard,Booked
+Bay View Inn,New York,362,4.6,153,4,"WiFi, Breakfast",3.06,Suite,Booked
+Miami Central Hotel,San Francisco,148,4.4,39,3,"WiFi, Pool, Spa, Breakfast",3.48,Deluxe,Booked
+Sunset Boulevard Hotel,New York,227,3.4,246,3,"WiFi, Pool, Breakfast",2.97,Deluxe,Booked
+Budget Inn,Miami,90,3.2,288,3,"WiFi, Breakfast",4.46,Suite,Limited
+Lakeside Resort,New York,333,4.4,357,5,"WiFi, Breakfast",3.54,Deluxe,Limited
+Miami Central Hotel,New York,117,4.3,124,5,"WiFi, Pool, Breakfast",2.96,Suite,Booked
+Comfort Suites,New York,213,3.5,113,3,"WiFi, Pool, Breakfast",4.23,Deluxe,Available
+Windy City Inn,Chicago,279,4.9,127,4,WiFi,3.23,Standard,Booked
+Budget Inn,New York,102,3.3,14,5,"WiFi, Pool, Spa, Breakfast",1.81,Standard,Booked
+Grand Plaza,San Francisco,382,3.9,477,3,"WiFi, Pool, Spa, Breakfast",1.43,Deluxe,Available
+Budget Inn,Miami,381,4.9,369,4,"WiFi, Pool, Breakfast",1.19,Suite,Limited
+Sunset Boulevard Hotel,Miami,297,3.8,257,5,"WiFi, Gym",4.55,Standard,Booked
+Budget Stay,New York,220,4.3,373,4,"WiFi, Breakfast",3.7,Suite,Booked
+Bay View Inn,Chicago,183,3.8,330,4,"WiFi, Breakfast",4.72,Deluxe,Limited
+Budget Inn,Chicago,289,3.5,130,4,"WiFi, Pool, Breakfast",3.21,Suite,Limited
+Grand Plaza,San Francisco,190,5.0,295,4,"WiFi, Gym",2.63,Standard,Available
+Sunset Boulevard Hotel,New York,183,3.8,158,5,WiFi,0.77,Suite,Limited
+Green Garden Hotel,Miami,395,4.8,93,5,"WiFi, Pool, Breakfast",3.52,Suite,Limited
+Ocean View Resort,Chicago,250,3.5,463,5,"WiFi, Pool, Breakfast",3.12,Deluxe,Limited
+Budget Stay,New York,212,3.4,415,3,"WiFi, Breakfast",4.96,Deluxe,Available
+Bay View Inn,Chicago,372,3.1,475,5,"WiFi, Pool, Breakfast",1.58,Deluxe,Limited
+Ocean View Resort,Chicago,206,4.3,465,4,"WiFi, Pool, Breakfast",2.89,Standard,Limited
+Windy City Inn,Miami,185,3.7,240,5,"WiFi, Pool, Breakfast",3.43,Standard,Available
+Palm Trees Hotel,Los Angeles,171,4.7,297,4,"WiFi, Breakfast",3.4,Deluxe,Limited
+Budget Stay,San Francisco,366,3.9,170,3,WiFi,3.03,Deluxe,Limited
+Budget Stay,San Francisco,130,4.9,281,4,WiFi,4.0,Standard,Available
+Green Garden Hotel,Miami,108,3.4,469,4,"WiFi, Pool, Breakfast",1.42,Standard,Booked
+Green Garden Hotel,Chicago,375,4.7,47,4,"WiFi, Breakfast",3.77,Standard,Available
+Lakeside Resort,New York,376,4.6,235,3,WiFi,3.29,Standard,Limited
+Skyline Hotel,Chicago,293,4.5,151,5,WiFi,4.53,Deluxe,Limited
+Budget Inn,Miami,346,4.7,301,5,WiFi,4.31,Standard,Limited
+Budget Stay,San Francisco,336,4.5,490,3,"WiFi, Breakfast",1.92,Deluxe,Available
+Ocean View Resort,Chicago,381,4.3,160,4,"WiFi, Breakfast",1.74,Suite,Limited
+Grand Plaza,San Francisco,180,3.3,123,5,"WiFi, Pool, Breakfast",4.92,Suite,Limited
+Royal Stay,New York,189,3.1,246,3,"WiFi, Pool, Spa, Breakfast",2.87,Standard,Available
+Skyline Hotel,San Francisco,261,4.8,75,5,WiFi,4.58,Suite,Booked
+Royal Stay,San Francisco,392,4.2,370,3,"WiFi, Pool, Spa, Breakfast",1.24,Suite,Booked
+Bay View Inn,Los Angeles,80,4.6,350,4,"WiFi, Breakfast",3.39,Suite,Limited
+Sunset Boulevard Hotel,Los Angeles,398,4.0,267,5,"WiFi, Breakfast",4.14,Standard,Available
+Ocean View Resort,Los Angeles,134,3.2,484,3,"WiFi, Breakfast",4.76,Standard,Limited
+Ocean View Resort,San Francisco,228,3.3,258,5,"WiFi, Pool, Spa, Breakfast",2.02,Suite,Available
+Skyline Hotel,Miami,388,4.4,466,5,"WiFi, Breakfast",3.76,Deluxe,Available
+Budget Stay,San Francisco,216,3.9,458,5,"WiFi, Pool, Breakfast",2.92,Suite,Booked
+Windy City Inn,Miami,281,3.4,340,5,"WiFi, Breakfast",0.77,Standard,Booked
+Skyline Hotel,Miami,392,4.0,332,3,"WiFi, Gym",3.6,Standard,Available
+Royal Stay,Los Angeles,196,3.1,189,4,"WiFi, Pool, Spa, Breakfast",3.61,Standard,Limited
+Skyline Hotel,Chicago,233,4.2,199,3,"WiFi, Gym",4.69,Suite,Booked
+Ocean View Resort,New York,370,3.5,416,3,"WiFi, Breakfast",2.74,Deluxe,Limited
+Windy City Inn,Los Angeles,142,4.6,163,3,"WiFi, Pool, Breakfast",1.54,Standard,Booked
+Budget Inn,Los Angeles,323,3.6,205,4,WiFi,0.7,Standard,Booked
+Comfort Suites,Chicago,104,3.9,475,5,"WiFi, Breakfast",2.37,Suite,Limited
+Lakeside Resort,New York,169,3.0,320,5,"WiFi, Pool, Breakfast",1.86,Deluxe,Booked
+City Lights Hotel,San Francisco,154,3.1,271,5,"WiFi, Pool, Spa, Breakfast",3.92,Suite,Booked
+Green Garden Hotel,San Francisco,373,3.8,428,4,"WiFi, Gym",2.09,Standard,Limited
+Skyline Hotel,Los Angeles,289,4.0,415,5,"WiFi, Gym",4.77,Deluxe,Booked
+Bay View Inn,New York,96,4.2,436,4,"WiFi, Gym",4.83,Deluxe,Booked
+Palm Trees Hotel,Los Angeles,207,3.6,152,5,"WiFi, Pool, Spa, Breakfast",3.29,Standard,Booked
+Sunset Boulevard Hotel,Miami,330,4.4,351,5,"WiFi, Pool, Breakfast",4.68,Deluxe,Limited
+Comfort Suites,Los Angeles,258,4.7,325,3,"WiFi, Pool, Spa, Breakfast",3.92,Deluxe,Available
+Lakeside Resort,Los Angeles,261,4.6,110,4,"WiFi, Gym",2.96,Suite,Limited
+Lakeside Resort,San Francisco,231,3.1,253,3,"WiFi, Breakfast",1.31,Standard,Available
+Lakeside Resort,San Francisco,104,4.0,499,3,WiFi,2.56,Standard,Booked
+Lakeside Resort,San Francisco,259,3.2,21,3,"WiFi, Pool, Spa, Breakfast",3.02,Standard,Available
+Royal Stay,Miami,277,3.5,248,4,"WiFi, Pool, Spa, Breakfast",4.39,Standard,Limited
+Bay View Inn,San Francisco,240,5.0,58,4,"WiFi, Pool, Breakfast",2.67,Standard,Limited
+Bay View Inn,New York,256,3.3,51,5,"WiFi, Pool, Breakfast",4.54,Deluxe,Booked
+Windy City Inn,Chicago,364,4.0,175,3,"WiFi, Pool, Spa, Breakfast",3.53,Suite,Available
+Green Garden Hotel,New York,142,4.2,91,5,"WiFi, Gym",1.12,Standard,Booked
+Ocean View Resort,New York,229,4.4,438,3,WiFi,4.98,Suite,Booked
+Lakeside Resort,San Francisco,233,4.1,300,4,"WiFi, Pool, Breakfast",2.87,Suite,Limited
+Palm Trees Hotel,Chicago,235,3.0,167,4,"WiFi, Gym",2.26,Deluxe,Available
+Ocean View Resort,Chicago,128,3.7,225,4,"WiFi, Breakfast",3.47,Standard,Available
+Bay View Inn,Chicago,163,4.0,499,3,"WiFi, Pool, Breakfast",0.99,Deluxe,Available
+Grand Plaza,Miami,256,3.2,167,4,"WiFi, Gym",3.36,Standard,Available
+Grand Plaza,San Francisco,227,3.7,471,3,"WiFi, Gym",2.74,Deluxe,Booked
+Palm Trees Hotel,Chicago,197,3.1,143,5,WiFi,2.33,Suite,Booked
+Windy City Inn,Miami,142,3.2,76,3,WiFi,4.79,Standard,Limited
+Bay View Inn,Los Angeles,268,3.8,345,5,"WiFi, Breakfast",2.85,Suite,Booked
+Palm Trees Hotel,Los Angeles,128,3.3,16,3,"WiFi, Gym",1.49,Suite,Booked
+Royal Stay,Miami,336,4.1,445,5,"WiFi, Gym",2.57,Deluxe,Limited
+Skyline Hotel,Miami,303,4.4,23,4,WiFi,4.64,Standard,Limited
+Palm Trees Hotel,San Francisco,220,4.6,82,5,"WiFi, Pool, Breakfast",1.29,Suite,Limited
+Budget Inn,San Francisco,294,3.4,408,4,"WiFi, Pool, Breakfast",1.46,Deluxe,Booked
+Ocean View Resort,Los Angeles,290,3.3,414,4,"WiFi, Pool, Spa, Breakfast",0.56,Standard,Booked
+Comfort Suites,Chicago,397,3.2,172,5,WiFi,0.56,Standard,Limited
+Miami Central Hotel,Los Angeles,111,4.3,75,3,"WiFi, Pool, Spa, Breakfast",4.23,Suite,Limited
+Windy City Inn,Chicago,237,4.4,356,3,WiFi,3.79,Standard,Limited
+Palm Trees Hotel,Chicago,364,3.1,139,3,"WiFi, Breakfast",2.1,Suite,Booked
+Bay View Inn,San Francisco,384,4.9,428,3,"WiFi, Gym",3.64,Standard,Booked
+Sunset Boulevard Hotel,New York,365,3.1,475,3,"WiFi, Breakfast",2.28,Deluxe,Available
+Grand Plaza,New York,223,4.1,215,4,WiFi,4.79,Suite,Booked
+Budget Inn,Miami,98,4.4,285,3,"WiFi, Gym",4.85,Suite,Booked
+Green Garden Hotel,San Francisco,97,4.7,475,4,"WiFi, Pool, Breakfast",2.27,Standard,Booked
+Lakeside Resort,Chicago,336,4.4,265,4,"WiFi, Pool, Breakfast",4.34,Standard,Limited
+Miami Central Hotel,New York,157,4.6,275,4,"WiFi, Pool, Spa, Breakfast",3.98,Suite,Booked
+Budget Stay,Chicago,254,3.7,34,5,WiFi,1.89,Standard,Limited
+Windy City Inn,New York,273,4.6,459,5,WiFi,1.54,Deluxe,Available
+Comfort Suites,New York,192,3.2,290,4,"WiFi, Pool, Breakfast",2.56,Standard,Available
+Miami Central Hotel,New York,193,4.8,262,5,"WiFi, Breakfast",4.02,Deluxe,Limited
+Palm Trees Hotel,San Francisco,301,4.1,319,3,"WiFi, Gym",4.82,Deluxe,Limited
+Royal Stay,Los Angeles,245,4.6,298,3,"WiFi, Breakfast",3.94,Deluxe,Limited
+Grand Plaza,Chicago,398,3.9,173,4,"WiFi, Breakfast",4.35,Deluxe,Booked
+Bay View Inn,San Francisco,211,4.3,104,3,"WiFi, Pool, Breakfast",3.21,Deluxe,Available
+Grand Plaza,San Francisco,343,4.1,279,4,"WiFi, Pool, Breakfast",4.26,Standard,Limited
+Green Garden Hotel,San Francisco,134,4.5,330,4,"WiFi, Pool, Breakfast",4.03,Deluxe,Booked
+Royal Stay,San Francisco,210,3.2,119,3,"WiFi, Pool, Spa, Breakfast",2.2,Standard,Available
+Lakeside Resort,San Francisco,367,3.1,345,5,"WiFi, Breakfast",2.98,Deluxe,Booked
+Bay View Inn,Miami,345,3.5,319,3,WiFi,4.12,Suite,Available
+Ocean View Resort,Chicago,241,3.3,247,3,"WiFi, Gym",0.71,Deluxe,Booked
+City Lights Hotel,San Francisco,166,4.7,390,4,"WiFi, Pool, Spa, Breakfast",4.14,Suite,Available
+Budget Inn,Chicago,134,3.4,445,4,WiFi,1.3,Deluxe,Available
+Grand Plaza,Miami,367,5.0,396,4,"WiFi, Breakfast",2.82,Deluxe,Booked
+Sunset Boulevard Hotel,Miami,257,3.7,492,4,"WiFi, Pool, Breakfast",4.14,Deluxe,Limited
+Grand Plaza,Chicago,87,3.4,434,5,"WiFi, Breakfast",1.64,Suite,Available
+Miami Central Hotel,New York,392,4.6,399,5,"WiFi, Gym",1.61,Suite,Limited
+Grand Plaza,Los Angeles,326,4.3,34,5,"WiFi, Pool, Spa, Breakfast",2.31,Deluxe,Booked
+Windy City Inn,New York,334,4.0,150,4,"WiFi, Pool, Spa, Breakfast",4.53,Standard,Limited
+Grand Plaza,New York,133,4.1,126,4,"WiFi, Gym",0.5,Deluxe,Limited
+City Lights Hotel,New York,328,4.4,491,4,WiFi,4.56,Suite,Limited
+City Lights Hotel,San Francisco,318,3.5,401,5,WiFi,1.19,Deluxe,Limited
+Lakeside Resort,Miami,308,5.0,414,4,"WiFi, Pool, Spa, Breakfast",4.96,Suite,Limited
+Comfort Suites,New York,146,4.9,491,3,"WiFi, Pool, Spa, Breakfast",4.8,Suite,Available
+Ocean View Resort,Miami,130,4.3,461,3,"WiFi, Pool, Breakfast",2.73,Suite,Available
+Sunset Boulevard Hotel,Chicago,176,3.4,34,4,WiFi,2.81,Deluxe,Available
+Grand Plaza,Los Angeles,171,4.4,88,3,"WiFi, Gym",2.67,Suite,Booked
+Grand Plaza,Chicago,343,3.1,77,3,WiFi,3.36,Suite,Limited
+Budget Inn,Chicago,370,3.1,182,5,"WiFi, Pool, Breakfast",0.91,Deluxe,Available
+Bay View Inn,San Francisco,175,3.5,453,4,"WiFi, Pool, Spa, Breakfast",0.65,Suite,Booked
+City Lights Hotel,Los Angeles,167,3.9,21,4,"WiFi, Pool, Spa, Breakfast",0.76,Deluxe,Available
+Sunset Boulevard Hotel,Chicago,157,4.7,297,5,"WiFi, Pool, Breakfast",2.5,Suite,Available
+Lakeside Resort,Chicago,367,4.5,137,3,"WiFi, Gym",1.74,Standard,Limited
+Green Garden Hotel,Los Angeles,199,4.5,105,3,"WiFi, Pool, Spa, Breakfast",3.3,Standard,Booked
+Comfort Suites,Los Angeles,381,3.9,101,4,"WiFi, Breakfast",4.97,Suite,Limited
+Ocean View Resort,Chicago,244,3.7,150,3,"WiFi, Pool, Spa, Breakfast",2.24,Standard,Limited
+Royal Stay,Los Angeles,261,3.7,40,5,"WiFi, Breakfast",3.08,Deluxe,Available
+Ocean View Resort,Chicago,302,5.0,343,5,"WiFi, Pool, Breakfast",2.37,Standard,Limited
+Windy City Inn,Chicago,390,3.1,29,4,"WiFi, Pool, Breakfast",4.31,Suite,Booked
+Miami Central Hotel,San Francisco,86,4.7,155,5,"WiFi, Pool, Spa, Breakfast",4.56,Suite,Limited
+Windy City Inn,New York,342,4.2,486,5,WiFi,4.45,Deluxe,Limited
+Grand Plaza,Chicago,240,3.9,325,4,"WiFi, Breakfast",4.88,Suite,Limited
+Budget Stay,Miami,230,4.5,456,5,"WiFi, Gym",0.62,Deluxe,Available
+Comfort Suites,New York,164,4.0,399,5,"WiFi, Pool, Spa, Breakfast",4.28,Standard,Booked
+Miami Central Hotel,New York,226,4.7,169,5,"WiFi, Gym",3.88,Standard,Available
+Sunset Boulevard Hotel,New York,191,4.8,358,3,"WiFi, Pool, Spa, Breakfast",1.53,Deluxe,Available
+Royal Stay,San Francisco,115,3.8,52,4,WiFi,4.8,Deluxe,Available
+City Lights Hotel,Chicago,364,3.6,263,4,WiFi,1.17,Suite,Available
+Comfort Suites,San Francisco,267,4.2,139,4,WiFi,3.56,Standard,Available
+Comfort Suites,Chicago,161,4.8,69,3,WiFi,1.51,Deluxe,Booked
+Windy City Inn,San Francisco,81,3.4,160,3,"WiFi, Pool, Breakfast",2.44,Standard,Limited
+Budget Stay,San Francisco,382,4.2,476,4,"WiFi, Pool, Breakfast",3.74,Deluxe,Available
+Grand Plaza,Miami,276,4.3,296,3,"WiFi, Breakfast",3.03,Standard,Available
+Palm Trees Hotel,San Francisco,90,4.5,14,4,"WiFi, Gym",2.42,Suite,Booked
+Lakeside Resort,Los Angeles,313,3.3,476,3,"WiFi, Pool, Spa, Breakfast",1.97,Standard,Booked
+Windy City Inn,Miami,274,4.4,427,5,"WiFi, Pool, Spa, Breakfast",4.28,Standard,Limited
+Comfort Suites,San Francisco,198,4.8,275,5,"WiFi, Pool, Breakfast",1.15,Standard,Booked
+Skyline Hotel,New York,99,3.4,354,4,"WiFi, Pool, Spa, Breakfast",2.44,Standard,Limited
+Budget Inn,Los Angeles,340,3.5,139,3,"WiFi, Pool, Breakfast",4.57,Standard,Available
+Royal Stay,Los Angeles,372,4.9,391,3,"WiFi, Breakfast",4.31,Suite,Available
+Lakeside Resort,Los Angeles,335,3.4,276,5,"WiFi, Gym",2.3,Deluxe,Limited
+Windy City Inn,Miami,301,4.7,187,5,"WiFi, Breakfast",3.93,Standard,Booked
+Royal Stay,San Francisco,305,4.0,262,3,WiFi,4.2,Suite,Limited
+Budget Inn,San Francisco,132,3.5,424,3,WiFi,4.5,Standard,Booked
+Green Garden Hotel,New York,359,4.7,65,3,WiFi,2.95,Standard,Available
+Budget Inn,New York,160,3.9,472,3,"WiFi, Breakfast",1.42,Deluxe,Booked
+Budget Stay,Los Angeles,281,4.0,466,3,"WiFi, Pool, Spa, Breakfast",1.65,Standard,Limited
+Budget Inn,New York,237,3.7,480,3,"WiFi, Gym",1.83,Suite,Limited
+Royal Stay,Miami,199,4.2,92,4,WiFi,3.17,Suite,Available
+Ocean View Resort,San Francisco,138,3.3,402,3,WiFi,0.65,Deluxe,Booked
+Royal Stay,Los Angeles,294,3.8,108,5,WiFi,3.36,Standard,Booked
+Palm Trees Hotel,New York,207,4.9,158,4,"WiFi, Gym",2.14,Suite,Booked
+Grand Plaza,Miami,303,3.5,338,3,WiFi,1.83,Standard,Available
+Miami Central Hotel,Miami,288,4.3,165,5,"WiFi, Gym",4.46,Standard,Booked
+Ocean View Resort,New York,194,3.7,199,4,WiFi,2.57,Standard,Limited
+City Lights Hotel,San Francisco,288,4.5,380,5,"WiFi, Breakfast",0.93,Deluxe,Booked
+Miami Central Hotel,New York,93,3.3,272,3,"WiFi, Breakfast",4.22,Standard,Available
+Grand Plaza,Los Angeles,88,4.9,89,3,"WiFi, Gym",0.71,Suite,Booked
+Windy City Inn,New York,119,3.9,409,3,"WiFi, Breakfast",3.77,Standard,Booked
+Lakeside Resort,Miami,316,3.5,261,3,"WiFi, Gym",3.98,Suite,Limited
+Palm Trees Hotel,New York,360,3.1,106,4,"WiFi, Breakfast",2.09,Standard,Booked
+Palm Trees Hotel,San Francisco,280,3.3,269,4,"WiFi, Breakfast",4.21,Suite,Limited
+City Lights Hotel,Chicago,325,4.0,269,5,"WiFi, Gym",2.82,Suite,Limited
+Ocean View Resort,New York,357,3.7,112,3,"WiFi, Pool, Spa, Breakfast",2.58,Standard,Available
+Budget Stay,San Francisco,314,4.7,49,5,"WiFi, Breakfast",0.7,Standard,Limited
+Bay View Inn,San Francisco,83,3.9,282,4,WiFi,1.81,Suite,Limited
+Green Garden Hotel,Miami,233,3.5,110,3,"WiFi, Pool, Spa, Breakfast",4.69,Deluxe,Available
+Budget Inn,San Francisco,108,4.2,368,3,"WiFi, Gym",2.26,Standard,Limited
+Ocean View Resort,San Francisco,188,4.4,389,4,"WiFi, Pool, Spa, Breakfast",2.96,Deluxe,Available
+Lakeside Resort,San Francisco,177,3.3,317,4,"WiFi, Pool, Breakfast",2.89,Standard,Booked
+Green Garden Hotel,San Francisco,294,3.3,230,4,"WiFi, Pool, Breakfast",3.16,Standard,Available
+Palm Trees Hotel,Los Angeles,372,3.1,317,4,"WiFi, Breakfast",0.78,Standard,Limited
+Royal Stay,Los Angeles,154,4.5,429,4,"WiFi, Breakfast",2.13,Standard,Available
+Lakeside Resort,Miami,225,4.3,133,3,WiFi,3.75,Deluxe,Limited
+Grand Plaza,New York,207,3.9,431,4,"WiFi, Pool, Spa, Breakfast",1.4,Standard,Booked
+City Lights Hotel,San Francisco,121,4.7,240,3,"WiFi, Pool, Breakfast",1.42,Suite,Available
+Grand Plaza,New York,120,4.6,187,3,"WiFi, Breakfast",0.55,Suite,Booked
+Bay View Inn,New York,113,4.2,72,4,"WiFi, Pool, Spa, Breakfast",2.47,Deluxe,Limited
+Lakeside Resort,Miami,96,4.7,494,4,"WiFi, Breakfast",4.47,Standard,Limited
+Sunset Boulevard Hotel,San Francisco,244,3.4,125,3,"WiFi, Breakfast",0.73,Suite,Booked
+Sunset Boulevard Hotel,San Francisco,232,3.2,200,4,"WiFi, Pool, Breakfast",1.36,Deluxe,Available
+Windy City Inn,Chicago,155,3.5,71,4,"WiFi, Pool, Breakfast",1.9,Standard,Available
+Ocean View Resort,New York,166,3.1,265,4,"WiFi, Breakfast",3.79,Suite,Limited
+Palm Trees Hotel,New York,196,4.1,492,5,"WiFi, Gym",3.38,Suite,Booked
+Palm Trees Hotel,Los Angeles,106,4.9,16,3,"WiFi, Breakfast",2.37,Deluxe,Booked
+Budget Inn,Chicago,392,3.1,164,5,"WiFi, Breakfast",3.92,Standard,Available
+Budget Inn,Los Angeles,366,3.2,101,4,WiFi,3.24,Standard,Available
+Budget Inn,Los Angeles,213,3.9,479,5,WiFi,4.53,Suite,Available
+Royal Stay,Los Angeles,298,4.9,23,4,WiFi,4.18,Suite,Booked
+Miami Central Hotel,Miami,247,3.6,464,5,"WiFi, Gym",1.64,Suite,Available
+Comfort Suites,Miami,177,4.0,238,4,"WiFi, Gym",1.72,Standard,Available
+Miami Central Hotel,Los Angeles,347,3.1,95,5,"WiFi, Breakfast",1.06,Deluxe,Limited
+Grand Plaza,Chicago,316,3.3,142,5,WiFi,2.02,Deluxe,Available
+Miami Central Hotel,New York,388,5.0,192,5,"WiFi, Gym",5.0,Standard,Available
+Royal Stay,Chicago,252,4.9,395,3,"WiFi, Pool, Breakfast",2.33,Deluxe,Booked
+Windy City Inn,San Francisco,269,3.0,71,5,"WiFi, Breakfast",1.49,Suite,Booked
+Grand Plaza,Miami,201,4.9,228,3,"WiFi, Pool, Spa, Breakfast",3.93,Deluxe,Limited
+Miami Central Hotel,New York,125,4.3,414,4,"WiFi, Breakfast",2.94,Deluxe,Available
+Royal Stay,New York,143,4.7,255,5,"WiFi, Pool, Spa, Breakfast",1.17,Deluxe,Limited
+Comfort Suites,San Francisco,209,3.9,239,4,WiFi,2.21,Suite,Booked
+Miami Central Hotel,San Francisco,389,4.0,88,4,"WiFi, Pool, Spa, Breakfast",2.37,Standard,Limited
+Royal Stay,Los Angeles,272,4.0,158,5,WiFi,3.89,Suite,Booked
+Bay View Inn,Miami,386,4.3,147,3,"WiFi, Pool, Breakfast",0.59,Standard,Limited
+Budget Inn,Miami,260,3.3,480,5,"WiFi, Pool, Spa, Breakfast",1.71,Standard,Limited
+Bay View Inn,Chicago,371,3.1,323,4,"WiFi, Breakfast",2.83,Standard,Available
+Palm Trees Hotel,Los Angeles,361,3.6,385,4,WiFi,1.71,Deluxe,Limited
+Budget Inn,Los Angeles,108,4.4,432,5,"WiFi, Breakfast",3.33,Deluxe,Available
+Palm Trees Hotel,Los Angeles,228,3.4,398,3,"WiFi, Gym",2.67,Standard,Available
+Skyline Hotel,Los Angeles,346,4.3,74,3,WiFi,2.13,Standard,Available
+City Lights Hotel,Miami,375,4.9,22,4,"WiFi, Pool, Spa, Breakfast",4.77,Deluxe,Available
+Bay View Inn,Miami,90,3.2,222,4,WiFi,3.34,Suite,Limited
+City Lights Hotel,Los Angeles,243,4.3,483,3,"WiFi, Breakfast",1.08,Standard,Booked
+City Lights Hotel,Chicago,192,3.9,251,5,"WiFi, Pool, Breakfast",3.02,Suite,Booked
+Comfort Suites,New York,266,4.7,222,4,WiFi,4.01,Deluxe,Booked
+Budget Inn,New York,374,3.4,190,3,"WiFi, Pool, Spa, Breakfast",3.69,Standard,Limited
+Skyline Hotel,Chicago,311,4.4,347,4,"WiFi, Gym",1.27,Suite,Available
+Palm Trees Hotel,Los Angeles,306,4.7,494,5,"WiFi, Pool, Breakfast",4.88,Suite,Booked
+Royal Stay,Miami,389,4.9,182,3,"WiFi, Gym",2.52,Suite,Limited
+Grand Plaza,New York,177,4.4,169,4,WiFi,1.22,Deluxe,Available
+Royal Stay,San Francisco,134,4.0,173,5,"WiFi, Breakfast",1.31,Deluxe,Booked
+Grand Plaza,San Francisco,190,4.2,474,4,"WiFi, Breakfast",0.94,Suite,Available
+Bay View Inn,Chicago,231,4.7,492,5,"WiFi, Pool, Spa, Breakfast",4.12,Suite,Booked
+Sunset Boulevard Hotel,Los Angeles,325,4.1,197,5,"WiFi, Breakfast",1.05,Deluxe,Booked
+Royal Stay,New York,148,3.1,404,3,"WiFi, Pool, Breakfast",1.06,Suite,Booked
+Miami Central Hotel,Los Angeles,391,4.9,200,5,"WiFi, Breakfast",4.33,Suite,Available
+Miami Central Hotel,New York,368,4.4,414,4,"WiFi, Pool, Spa, Breakfast",2.05,Deluxe,Limited
+Ocean View Resort,Chicago,329,4.4,317,5,WiFi,0.64,Suite,Available
+Budget Inn,Chicago,115,3.4,265,5,WiFi,0.73,Suite,Booked
+Grand Plaza,San Francisco,318,4.3,192,3,"WiFi, Breakfast",1.14,Suite,Available
+Grand Plaza,Los Angeles,227,3.8,126,5,"WiFi, Gym",1.46,Deluxe,Limited
+Lakeside Resort,San Francisco,306,4.3,291,5,WiFi,3.49,Suite,Available
+Windy City Inn,Los Angeles,323,3.2,205,4,"WiFi, Breakfast",1.21,Deluxe,Limited
+Budget Inn,San Francisco,280,4.3,43,3,"WiFi, Pool, Spa, Breakfast",1.03,Deluxe,Limited
+Comfort Suites,Miami,233,5.0,61,3,"WiFi, Breakfast",3.94,Standard,Available
+Ocean View Resort,Miami,152,3.1,121,3,WiFi,3.52,Standard,Booked
+Comfort Suites,Miami,280,5.0,261,5,"WiFi, Pool, Spa, Breakfast",2.46,Suite,Limited
+Bay View Inn,Miami,375,3.8,91,3,"WiFi, Breakfast",2.97,Deluxe,Available
+Bay View Inn,New York,96,4.7,241,5,"WiFi, Pool, Breakfast",1.9,Standard,Limited
+Comfort Suites,Miami,208,4.6,236,5,"WiFi, Pool, Spa, Breakfast",2.67,Suite,Booked
+Comfort Suites,Chicago,296,4.1,242,4,"WiFi, Pool, Breakfast",2.78,Standard,Available
+Skyline Hotel,Chicago,140,4.5,230,4,"WiFi, Gym",2.24,Standard,Available
+Budget Inn,New York,183,4.8,445,4,"WiFi, Pool, Spa, Breakfast",4.58,Deluxe,Available
+Comfort Suites,Miami,121,3.8,422,4,"WiFi, Pool, Breakfast",0.57,Deluxe,Booked
+Miami Central Hotel,Miami,104,3.7,431,4,WiFi,4.02,Standard,Limited
+Windy City Inn,Miami,118,4.3,51,5,WiFi,1.06,Standard,Available
+Windy City Inn,San Francisco,370,4.6,30,5,"WiFi, Gym",4.09,Deluxe,Limited
+City Lights Hotel,Los Angeles,210,4.5,51,3,"WiFi, Pool, Spa, Breakfast",3.27,Suite,Limited
+Sunset Boulevard Hotel,San Francisco,308,4.6,406,5,"WiFi, Pool, Spa, Breakfast",4.29,Deluxe,Booked
+Bay View Inn,Los Angeles,187,3.9,122,5,"WiFi, Pool, Spa, Breakfast",0.94,Standard,Available
+Grand Plaza,Miami,251,4.6,114,4,"WiFi, Gym",3.02,Suite,Limited
+Lakeside Resort,Miami,181,3.2,201,5,"WiFi, Pool, Spa, Breakfast",2.75,Standard,Available
+Budget Stay,San Francisco,91,4.1,26,4,WiFi,3.68,Suite,Available
+Grand Plaza,San Francisco,354,3.0,129,3,"WiFi, Pool, Breakfast",2.9,Standard,Booked
+Sunset Boulevard Hotel,Los Angeles,180,3.6,402,3,WiFi,2.93,Suite,Available
+Lakeside Resort,Chicago,123,3.7,434,5,WiFi,2.43,Suite,Available
+Skyline Hotel,Los Angeles,384,3.8,138,3,"WiFi, Pool, Breakfast",1.89,Standard,Limited
+Budget Inn,San Francisco,96,4.4,139,5,WiFi,2.67,Suite,Booked
+Royal Stay,San Francisco,136,3.8,69,3,"WiFi, Gym",1.03,Deluxe,Available
+Budget Inn,New York,390,3.9,57,4,"WiFi, Pool, Breakfast",4.83,Standard,Limited
+Grand Plaza,San Francisco,382,3.5,38,4,WiFi,3.71,Deluxe,Booked
+Grand Plaza,New York,91,3.7,106,4,"WiFi, Breakfast",4.79,Standard,Booked
+Lakeside Resort,Chicago,397,3.5,19,4,WiFi,1.52,Suite,Limited
+Lakeside Resort,Los Angeles,159,3.1,251,5,"WiFi, Gym",4.46,Suite,Limited
+Bay View Inn,Los Angeles,295,4.2,323,3,"WiFi, Pool, Spa, Breakfast",4.14,Suite,Limited
+Skyline Hotel,New York,343,4.3,453,5,WiFi,3.55,Standard,Limited
+Bay View Inn,Los Angeles,228,4.2,241,4,"WiFi, Pool, Spa, Breakfast",3.31,Deluxe,Limited
+Sunset Boulevard Hotel,San Francisco,160,3.9,286,5,"WiFi, Breakfast",1.92,Deluxe,Available
+Comfort Suites,Miami,294,3.8,293,3,WiFi,4.17,Standard,Available
+Budget Inn,New York,277,4.7,212,5,"WiFi, Pool, Breakfast",2.76,Standard,Booked
+Lakeside Resort,Los Angeles,279,4.0,256,3,"WiFi, Pool, Spa, Breakfast",0.82,Deluxe,Available
+Palm Trees Hotel,New York,104,4.0,299,5,"WiFi, Breakfast",1.91,Deluxe,Available
+Sunset Boulevard Hotel,New York,168,3.1,273,3,"WiFi, Pool, Breakfast",4.71,Deluxe,Available
+Miami Central Hotel,Miami,347,3.7,452,3,"WiFi, Pool, Breakfast",4.33,Deluxe,Limited
+Skyline Hotel,San Francisco,222,3.8,223,4,"WiFi, Pool, Breakfast",4.92,Standard,Booked
+Grand Plaza,New York,138,3.8,209,3,"WiFi, Pool, Breakfast",3.33,Standard,Booked
+Bay View Inn,Los Angeles,105,4.2,442,4,WiFi,1.61,Suite,Booked
+Sunset Boulevard Hotel,Chicago,126,4.1,88,4,WiFi,1.23,Deluxe,Booked
+Budget Stay,New York,367,4.2,410,4,WiFi,1.34,Suite,Available
+Budget Inn,New York,345,4.5,453,5,"WiFi, Breakfast",0.59,Standard,Available
+Lakeside Resort,Miami,95,4.6,352,5,"WiFi, Breakfast",2.26,Standard,Limited
+Grand Plaza,San Francisco,278,4.4,353,5,"WiFi, Breakfast",1.36,Suite,Booked
+Royal Stay,Chicago,361,4.9,182,5,"WiFi, Gym",2.35,Deluxe,Available
+Budget Stay,Los Angeles,165,3.0,476,3,"WiFi, Breakfast",4.71,Deluxe,Available
+Skyline Hotel,Chicago,329,3.4,78,3,WiFi,2.44,Deluxe,Limited
+Sunset Boulevard Hotel,Los Angeles,349,3.0,425,5,WiFi,4.45,Deluxe,Limited
+Ocean View Resort,San Francisco,196,4.3,437,3,"WiFi, Gym",3.22,Suite,Limited
+Grand Plaza,Los Angeles,86,4.8,458,3,"WiFi, Gym",1.61,Suite,Available
+Budget Inn,Miami,216,3.5,96,4,"WiFi, Breakfast",2.1,Standard,Available
+City Lights Hotel,Miami,255,4.9,110,4,"WiFi, Pool, Spa, Breakfast",0.88,Deluxe,Limited
+Palm Trees Hotel,Miami,394,3.1,17,4,"WiFi, Gym",2.0,Deluxe,Booked
+Green Garden Hotel,Miami,294,4.9,342,4,"WiFi, Pool, Breakfast",3.55,Deluxe,Limited
+Budget Stay,Chicago,161,3.7,209,3,WiFi,0.82,Suite,Limited
+Comfort Suites,San Francisco,302,3.2,96,5,"WiFi, Pool, Breakfast",1.42,Deluxe,Limited
+Green Garden Hotel,Los Angeles,182,4.0,52,3,WiFi,2.22,Suite,Limited
+Budget Inn,Los Angeles,352,3.5,394,3,WiFi,4.92,Deluxe,Available
+Miami Central Hotel,Miami,93,3.6,118,3,"WiFi, Gym",4.03,Deluxe,Booked
+Bay View Inn,Miami,238,3.6,444,4,"WiFi, Gym",3.8,Standard,Limited
+Miami Central Hotel,New York,231,4.6,417,4,"WiFi, Pool, Breakfast",1.02,Deluxe,Booked
+City Lights Hotel,San Francisco,187,4.1,492,4,WiFi,4.01,Deluxe,Booked
+Budget Stay,Chicago,267,3.6,161,5,"WiFi, Pool, Breakfast",4.03,Standard,Booked
+Comfort Suites,Los Angeles,380,4.2,26,3,"WiFi, Pool, Spa, Breakfast",3.2,Suite,Limited
+Ocean View Resort,New York,177,4.4,142,5,"WiFi, Pool, Breakfast",4.96,Suite,Available
+City Lights Hotel,New York,210,3.5,157,4,"WiFi, Breakfast",1.96,Deluxe,Limited
+Budget Stay,Los Angeles,372,3.8,286,5,"WiFi, Pool, Breakfast",4.74,Suite,Booked
+Windy City Inn,Chicago,250,3.2,241,3,"WiFi, Breakfast",4.62,Deluxe,Booked
+Green Garden Hotel,New York,262,3.4,323,3,"WiFi, Breakfast",0.55,Standard,Available
+City Lights Hotel,New York,118,4.4,424,4,"WiFi, Breakfast",2.53,Standard,Limited
+Green Garden Hotel,San Francisco,94,3.4,375,4,"WiFi, Pool, Spa, Breakfast",4.9,Deluxe,Booked
+Grand Plaza,Chicago,83,4.1,237,5,"WiFi, Pool, Breakfast",0.96,Standard,Available
+Miami Central Hotel,New York,289,4.4,148,4,"WiFi, Pool, Breakfast",2.97,Standard,Booked
+Grand Plaza,Chicago,240,3.2,445,4,"WiFi, Pool, Spa, Breakfast",4.91,Deluxe,Available
+Palm Trees Hotel,Los Angeles,95,4.1,408,3,WiFi,3.0,Deluxe,Available
+Windy City Inn,Miami,187,3.5,220,4,"WiFi, Gym",1.35,Standard,Limited
+Comfort Suites,New York,390,4.9,400,4,"WiFi, Pool, Breakfast",3.12,Suite,Booked
+Ocean View Resort,San Francisco,306,4.0,37,3,"WiFi, Gym",1.42,Suite,Limited
+Skyline Hotel,Los Angeles,249,4.6,60,3,"WiFi, Pool, Spa, Breakfast",2.84,Deluxe,Booked
+Green Garden Hotel,Chicago,113,4.1,451,5,WiFi,0.83,Deluxe,Limited
+Ocean View Resort,Los Angeles,330,3.1,270,4,WiFi,3.22,Suite,Booked
+Green Garden Hotel,New York,326,4.3,270,3,WiFi,2.83,Standard,Limited
+Budget Inn,Chicago,348,4.9,359,5,"WiFi, Pool, Spa, Breakfast",3.83,Suite,Available
